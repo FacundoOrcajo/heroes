@@ -2,4 +2,4 @@
 ## Lista de los integrantes del equipo
 -Facundo Orcajo
 -Ezequiel Gonzalez
--Flora Vargas
+-Flora Vargas, 30 , San Miguel.
