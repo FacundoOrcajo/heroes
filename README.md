@@ -1,5 +1,5 @@
 # Proyecto
 ## Lista de los integrantes del equipo
 -Facundo Orcajo-22 años-San Miguel
--Ezequiel Gonzalez
--Flora Vargas
+-Flora Vargas, 30 , San Miguel.
+-Ezequiel Gonzalez, 20 años, San Miguel.
